@@ -93,7 +93,7 @@ Change `start_page` and `end_page` as needed to scrape more or fewer pages.
 
 ## Video
 
-[Video on YouTube]()
+[Video on YouTube](https://youtu.be/FGxdfQ6YLVk)
 
 ## Explaination
 
